@@ -1,2 +1,3 @@
-# Simple Pong game built in java 
-simple project built using guide from https://kevinsguides.com/guides/code/java/javaprojs/simple-2d-pong/
+# Simple rock-paper-scissor 
+simple project built on python for python excersise on https://www.practicepython.org/exercise/2014/03/26/08-rock-paper-scissors.html
+Game is built with only a command line interface (CLI) with 0,1,2 represent rock-paper-scissor 
